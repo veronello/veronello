@@ -1,6 +1,6 @@
 # Hello, I’m Sasha Ohsumi
 
-I studied Japanese at university and still enjoy exploring kanji. I’m also learning Chinese characters.
+I studied Japanese at university and still enjoy exploring kanji.
 
 I’m building ONKUNREN (link coming soon), a project for learning and reviewing kanji through handwriting practice. Writing characters by hand helps me remember them better, and I find it a nice brain exercise 💜
 
